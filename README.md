@@ -4,7 +4,6 @@
 
 * HTML, CSS
 * ReactJS
-* ReactJS
-* ReactJS
-* ReactJS
-* ReactJS
+* БЭМ
+* JS
+* Flex
