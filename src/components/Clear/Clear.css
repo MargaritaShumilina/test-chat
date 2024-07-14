@@ -1,0 +1,17 @@
+.chat__clear-btn {
+    width: 10%;
+    height: 60px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    transition: 0.2s linear;
+}
+
+.chat__clear-btn:hover {
+    cursor: pointer;
+    background: none;
+    border: 1px solid rgb(49, 62, 98);
+    color: white;
+}
